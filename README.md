@@ -7,7 +7,7 @@ To develop a website to display details about the places around my house.
 ### Step 1:
    Do the reqired functions in theia id.
 ### Step 2:
-   type the html code and run the server.
+   Type the html code and run the server.
 ## Code:
 ```python
 map.html
