@@ -176,5 +176,7 @@ Puthalam saltpan of Kanniyakumari District, extreme hypersaline conditions are e
 
 ![](beach.jpeg)
 
+## Html Validation:
+![](valid2.png)
 ## Result:
 Thus the image is mapped successfully.
